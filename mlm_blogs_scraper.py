@@ -24,7 +24,7 @@ def get_blog_info(soup) -> pd.DataFrame:
 
 def main():
     link = "https://machinelearningmastery.com/blog/"
-    out_folder = "C:/Users/quent/OneDrive/Desktop/_L7_AI/Reading"
+    out_folder = "<out_folder>"
     results = []
 
     while True:
